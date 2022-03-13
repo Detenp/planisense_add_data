@@ -6,10 +6,6 @@ import com.lbounouar.app.utils.PropertiesFile;
 import java.sql.*;
 import java.util.Properties;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) throws AppException, SQLException {

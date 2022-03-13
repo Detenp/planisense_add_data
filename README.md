@@ -1,5 +1,7 @@
 # planisense_add_data
 
+Used to read from les-arbres.csv and fill the database.
+
 ### The database has to already have been setup as such:
 * It has a table named *arbres*
 * *arbres* has 3 columns:

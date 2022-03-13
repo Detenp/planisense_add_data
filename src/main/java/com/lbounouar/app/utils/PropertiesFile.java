@@ -3,10 +3,6 @@ package com.lbounouar.app.utils;
 import com.lbounouar.app.utils.exceptions.AppException;
 
 import java.io.*;
-import java.net.URL;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Objects;
 import java.util.Properties;
 
 public class PropertiesFile {
